@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+paypal-checkout-serversdk
+python-dotenv
